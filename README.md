@@ -37,6 +37,8 @@ Q: Are multiple beer containers of the same type supported?
 ## Improvements (If I Had More Time)
 Add automated polling with scheduling (e.g. with @nestjs/schedule)
 
+Added jwtGuards to protect sensitive routes
+
 Add temperature history retrieval endpoints
 
 Add validation and transformation via class-validator
