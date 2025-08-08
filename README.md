@@ -24,6 +24,8 @@ Created DTOs for input validation and structure
 
 Polling simulation is run manually (could be automated via cron or interval)
 
+Added unit testing with jest to make sure all's working smoothly
+
 
 
 ## Questions & Assumptions
